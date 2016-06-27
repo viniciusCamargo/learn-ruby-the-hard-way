@@ -41,6 +41,41 @@ else
 end
 =end
 
-a = (0..10).to_a
+# a = (0..10).to_a
+# a.each do |i| puts i end
 
-a.each do |i| puts i end
+# x = 'c'
+# case x
+# when 'a'
+# 	puts 'oi'
+# when 'b'
+# 	puts 'oi de novo'
+# when 'c', 'd'
+# 	puts 'oi?'
+# else
+# 	puts 'dafuq?'
+# end
+
+# def name(x)
+# 	puts "oi, #{x}!"
+# end
+# if defined? name
+# 	puts true
+# else
+# 	puts false
+# end
+
+# i = 0
+# while i < 10 do
+# 	puts i
+# 	i += 1
+# end
+
+# i = 0
+# until i > 10 do
+# 	puts i
+# 	i += 1
+# end
+
+# e = {'x' => 1, 'y' => 2}
+# puts e['x'] # 1
